@@ -14,6 +14,7 @@ int search (int arr[20], int n, int x)
 	return -1;
 }
 
+
 int main (void)
 {
 	int arr[20], n, i, j, x;
